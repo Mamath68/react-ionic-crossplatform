@@ -1,0 +1,7 @@
+{
+  "name": "react-ionic-crossplatform",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
